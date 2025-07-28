@@ -1,4 +1,4 @@
-FROM devlikeapro/waha:latest   # imagem oficial WAHA
+FROM devlikeapro/waha:latest
 ENV PORT=3000
 ENV WAHA_PRINT_QR=false
 EXPOSE 3000
